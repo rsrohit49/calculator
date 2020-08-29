@@ -10,7 +10,7 @@ def div(x,y):
     return x/y
 
 while True:
-    print('Select an Operation to perform')
+    print('Please, Select an Operation to perform')
     print('1. ADDITION')
     print('2. SUBSTRACTION')
     print('3. MULTIPLICATION')
